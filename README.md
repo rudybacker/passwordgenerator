@@ -8,4 +8,4 @@ Make sure you select the desired parameters.
 This is a link to the website:      
 
 # Screenshot of website
-This is a screenshot of the website: 
+This is a screenshot of the website: https://github.com/rudybacker/passwordgenerator/tree/main/assets/screenshot 
