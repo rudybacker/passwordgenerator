@@ -1,6 +1,6 @@
 # Password Generator Starter Code
 
-This website will help you create a secured password with your choice of characters ranging between numbers, letters and special characters.
+This website will help you create a secured password with your choice of characters ranging from numbers, letters to special characters.
 
 Make sure you select the desired parameters.
 
